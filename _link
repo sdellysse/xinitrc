@@ -1,0 +1,4 @@
+ln -sf ./xinitrc ~/.xinitrc
+ln -sf ./xsession ~/.xsession
+ln -sf ./Xdefaults ~/.Xdefaults
+
